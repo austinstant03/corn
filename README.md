@@ -58,7 +58,7 @@ URL:      tinachen.org
 body {
 font: normal normal 13px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
 color: #ffffff;
-background: #000000 url(http://1.bp.blogspot.com/-Yqv9AGAhSik/UocEO4P0wfI/AAAAAAAAADw/96uiPLE7mnU/s0/92970.png) repeat scroll top left;
+background: #000000 url(c700x420.jpg) repeat scroll top left;
 }
 html body .content-outer {
 min-width: 0;
